@@ -5,7 +5,10 @@
 ### Morning 09:00 - 12:00
 
 + Structuring your React project
+  + Co-location
+  + CSS Modules
 + useState and props
+  + prop drilling
 
 ### Afternoon 13:00 - 16:15
 

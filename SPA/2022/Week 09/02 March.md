@@ -4,8 +4,9 @@
 
 ### Morning 09:00 - 12:00
 
-+ React Router
-+ useEffect and the fetch API
++ useEffect
+  + When to use useEffect?
++ The fetch API
 
 ### Afternoon 13:00 - 16:15
 

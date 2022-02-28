@@ -4,8 +4,9 @@
 
 ### Morning 09:00 - 12:00
 
-+ Assessment
++ Context API
 
 ### Afternoon 13:00 - 16:15
 
-+ SPA Project kickoff
++ Assignment kickoff
++ [Notetaking application](https://github.com/FrancoSpeziali/react-notetaking-app)

@@ -2,4 +2,5 @@
 
 ## Lesson Plan
 
-+ SPA Project
++ Assignment
++ [Notetaking application](https://github.com/FrancoSpeziali/react-notetaking-app)

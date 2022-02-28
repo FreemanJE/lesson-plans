@@ -4,7 +4,11 @@
 
 ### Morning 09:00 - 12:00
 
-+ Context API
++ React Router v6
+  + Routes
+  + Dynamic routes
+  + useParams
+  + useNavigate()
 
 ### Afternoon 13:00 - 16:15
 
