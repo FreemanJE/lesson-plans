@@ -10,4 +10,4 @@
 
 ### Afternoon 13:00 - 16:15
 
-+ [Themed Switcher](https://github.com/FBW-E07/SPA-Store-ThemedTodos)
++ [Themed Switcher](https://github.com/E07-2/SPA-Store-ThemedTodos)

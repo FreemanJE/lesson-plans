@@ -12,4 +12,4 @@
 
 ### Afternoon 13:00 - 16:15
 
-+ [FetchyClicker](https://github.com/FBW-E07/SPA-Component-FetchyClicker)
++ [FetchyClicker](https://github.com/E07-2/SPA-Component-FetchyClicker)
