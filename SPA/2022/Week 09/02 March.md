@@ -7,7 +7,7 @@
 + React Router v6
   + Routes
   + Dynamic routes
-  + useParams
+  + useParams()
   + useNavigate()
 
 ### Afternoon 13:00 - 16:15
