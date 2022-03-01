@@ -6,7 +6,7 @@
 
 + useEffect
   + When to use useEffect?
-+ The fetch API
++ The fetch API / axios
 
 ### Afternoon 13:00 - 16:15
 

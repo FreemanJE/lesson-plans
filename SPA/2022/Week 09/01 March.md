@@ -7,6 +7,9 @@
 + Structuring your React project
   + Co-location
   + CSS Modules
+  + Subcomponents
+  + Share components
+  + High / low level components
 + useState and props
   + prop drilling
 
