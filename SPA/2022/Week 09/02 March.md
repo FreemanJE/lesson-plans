@@ -4,9 +4,11 @@
 
 ### Morning 09:00 - 12:00
 
-+ The fetch API / axios
-+ useEffect
-  + When to use useEffect?
++ React Router v6
+  + Routes
+  + Dynamic routes
+  + useParams
+  + useNavigate()
 
 ### Afternoon 13:00 - 16:15
 
