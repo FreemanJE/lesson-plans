@@ -12,4 +12,4 @@
 
 ### Afternoon 13:00 - 16:15
 
-+ [Router Assignment]()
++ [Router Assignment](https://github.com/GillesDCI/router-assignment)
