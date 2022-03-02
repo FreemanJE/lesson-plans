@@ -10,6 +10,8 @@
   + useParams()
   + useNavigate()
 
+**Live coding:** [Router Example](https://github.com/GillesDCI/router-example-class)
+
 ### Afternoon 13:00 - 16:15
 
 + [Router Assignment](https://github.com/GillesDCI/router-assignment)
