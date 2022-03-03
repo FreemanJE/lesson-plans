@@ -10,5 +10,7 @@
   + Examples
 
 ### Afternoon 13:00 - 16:15
++ [Using an API inside react](https://github.com/E07-2/SPA-Component-FetchyClicker)
 
-+ [Themed Switcher](https://github.com/E07-2/SPA-Store-ThemedTodos)
+Optional
++ [Fetchy clicker](https://github.com/E07-2/SPA-Component-FetchyClicker)
