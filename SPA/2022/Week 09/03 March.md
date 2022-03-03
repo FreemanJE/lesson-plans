@@ -10,7 +10,7 @@
   + Examples
 
 ### Afternoon 13:00 - 16:15
-+ [Using an API inside react](https://github.com/E07-2/SPA-Component-FetchyClicker)
++ [useEffect](https://github.com/E07-2/SPA-Component-FetchyClicker)
 
 Optional
 + [Fetchy clicker](https://github.com/E07-2/SPA-Component-FetchyClicker)
