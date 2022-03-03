@@ -11,6 +11,7 @@
   + useNavigate()
 
 **Live coding:** [Router Example](https://github.com/GillesDCI/router-example-class)
+
 **Recording:** [Lesson Recording](https://drive.google.com/file/d/1QYp9TUiXU7ELIp6OZlQG8kgNgb28oTc1/view?usp=sharing)
 
 ### Afternoon 13:00 - 16:15
