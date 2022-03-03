@@ -11,6 +11,8 @@
 
 **Live coding:** [Example Fetch](https://github.com/GillesDCI/example-fetch)
 
+**Lesson Recording:** [Lesson Recording](https://drive.google.com/file/d/1hQTm5B699iugb0YK55ZcRF8UhScH9DHl/view?usp=sharing)
+
 ### Afternoon 13:00 - 16:15
 + [useEffect](https://github.com/E07-2/SPA-Component-FetchyClicker)
 
