@@ -9,6 +9,8 @@
   + When to use useEffect?
   + Examples
 
+**Live coding:** [Example Fetch](https://github.com/GillesDCI/example-fetch)
+
 ### Afternoon 13:00 - 16:15
 + [useEffect](https://github.com/E07-2/SPA-Component-FetchyClicker)
 
