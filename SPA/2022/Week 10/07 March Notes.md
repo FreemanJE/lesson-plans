@@ -43,7 +43,7 @@ Don't use Context API - unless you really need to!
 > KISS = Keep it simple, stupid! Keep it stupid simple! - Don't overcomplicate things, if you don't need to
 > DRY = Don't repeat yourself
 
-## Patterns / ant-patterns
+## Patterns / anti-patterns
 
 A pattern is an established way of doing things / an established practise. (usually) no controversy around a pattern
 

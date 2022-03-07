@@ -6,6 +6,8 @@
 
 + Context API
 
+**Notes** [Link](./07%20March%20Notes.md)
+
 ### Afternoon 13:00 - 16:15
 
 + Assignment kickoff
