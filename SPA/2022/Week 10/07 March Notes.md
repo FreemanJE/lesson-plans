@@ -67,3 +67,11 @@ function Text({ children }) {
 If you want to render the `children`, first destructure or grab from the props the `children` prop,
 
 then render using `{childen}`
+
+![The tree](./Context%20API-The%20tree.drawio.png)
+
+![Bad example](./Context%20API-With%20Context%20API%20-%20bad.drawio.png)
+
+![Good example](./Context%20API-With%20Context%20API%20-%20good.drawio.png)
+
+![Common example](./Context%20API-Common%20example.drawio.png)
