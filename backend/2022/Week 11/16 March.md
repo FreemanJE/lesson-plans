@@ -11,17 +11,14 @@
 
 ### Afternoon 13:00 - 16:15
 
-+ Installing tools
-    + node
-    + n
-    + npm
 + Introduction to node.js
     + node CLI
     + CLI arguments in node.js
     + node.js vs browser (environment)
-+ Introduction to npm
-    + npmjs.com
-    + package.json
-        + scripts
-    + package+lock.json
-    + npm CLI
++ Node Process.env
++ Using the dotenv package
++ CLI arguments in node.js (recap)
+
+**Presentation:** [Introduction to Node](https://docs.google.com/presentation/d/1p6fMz1IyM6Zz_MNS1sREDj7lkez0G-KNHaCAEhds_SI/edit?usp=sharing)
+
++ **Assignment**: [Environment variables in node.js](https://github.com/FrancoSpeziali/node-environment-variables)
