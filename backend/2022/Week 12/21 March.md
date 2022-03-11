@@ -4,15 +4,10 @@
 
 ### Morning 09:00 - 12:00
 
-+ GIT refresher
-    + .gitignore
-    + GIT CLI
-    + GIT in Visual Code
-+ Promises
-    + async / await
-+ Node File system
-+ **Livecoding**: Using node.js to create a simple CLI application
++ Nodemon
++ Promises with axios
++ **Bootstrapping**: the Node Weather CLI assignment
 
 ### Afternoon 13:00 - 16:15
 
-+ **Assignment**: [Working with the node.js filesystem, using Promises](https://github.com/FrancoSpeziali/node-file-system-promises)
++ **Assignment**: [Node Weather CLI](https://github.com/DigitalCareerInstitute/Node-WeatherCLI)

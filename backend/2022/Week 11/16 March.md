@@ -4,21 +4,15 @@
 
 ### Morning 09:00 - 12:00
 
-+ Module Introduction
-+ What is backend?
-+ How backend works with frontend
-+ Meet the technologies (overview)
++ Introduction to npm
+  + npmjs.com
+  + package.json
+    + scripts
+  + package+lock.json
+  + npm CLI
+
+**Presentation:** [Npm](https://docs.google.com/presentation/d/1ZeR3VujCKimI6UhtkjYbaF-n969CR9RrEYU8JaniLpk/edit?usp=sharing)
 
 ### Afternoon 13:00 - 16:15
 
-+ Introduction to node.js
-    + node CLI
-    + CLI arguments in node.js
-    + node.js vs browser (environment)
-+ Node Process.env
-+ Using the dotenv package
-+ CLI arguments in node.js (recap)
-
-**Presentation:** [Introduction to Node](https://docs.google.com/presentation/d/1p6fMz1IyM6Zz_MNS1sREDj7lkez0G-KNHaCAEhds_SI/edit?usp=sharing)
-
-+ **Assignment**: [Environment variables in node.js](https://github.com/FrancoSpeziali/node-environment-variables)
+** Assignment ** [CLI Text Formatter](https://github.com/DigitalCareerInstitute/Node-FormattingCLI)

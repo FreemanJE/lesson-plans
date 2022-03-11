@@ -4,15 +4,15 @@
 
 ### Morning 09:00 - 12:00
 
-+ Introduction to npm
-  + npmjs.com
-  + package.json
-    + scripts
-  + package+lock.json
-  + npm CLI
-
-**Presentation:** [Npm](https://docs.google.com/presentation/d/1ZeR3VujCKimI6UhtkjYbaF-n969CR9RrEYU8JaniLpk/edit?usp=sharing)
++ GIT refresher
+  + .gitignore
+  + GIT CLI
+  + GIT in Visual Code
++ Promises
+  + async / await
++ Node File system
++ **Livecoding**: Using node.js to create a simple CLI application
 
 ### Afternoon 13:00 - 16:15
 
-** Assignment ** [CLI Text Formatter](https://github.com/DigitalCareerInstitute/Node-FormattingCLI)
++ **Assignment**: [Working with the node.js filesystem, using Promises](https://github.com/FrancoSpeziali/node-file-system-promises)

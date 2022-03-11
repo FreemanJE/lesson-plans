@@ -1,5 +1,10 @@
 # Monday 14th March
 
 ## Lesson Plan
-+ Presentations of the assignment 
-+ SPA Project
+
++ **Livecoding** Notetaking application solution
+
+### Afternoon 13:00 - 16:15
+
++ Quiz
++ Finishing up assignments

@@ -4,17 +4,22 @@
 
 ### Morning 09:00 - 12:00
 
-+ Introduction to Express.js
-+ What is a server?
-+ **Livecoding**: Building a simple server with Express.js
-+ Request types (introduction)
-+ Request parameters
-+ (Optional) Rendering views in Express.js
++ **Solution**: Building an almost simple server with Express.js
++ Recap from yesterday
++ Building a server in Express.js
++ Requests and Responses (deep dive)
+    + GET
+    + POST
+    + PUT
+    + DELETE
++ Tools when working with APIs
+    + Postman / Insomnia
++ (Optional) Response Codes
 
-**Presentation**: [Introduction to Express.js](https://docs.google.com/presentation/d/1kpgOb-FBKFf0cmJdhsztj31N-x6iQ1BFG_FFA18CAU4/edit?usp=sharing)
+**Presentation**: [Backend server - HTTP](https://docs.google.com/presentation/d/1x7VynkZ_hc0nzRoNuTBN1j9PnfxGg3xOsMl7dIBiy7s/edit?usp=sharing)
 
 ### Afternoon 13:00 - 16:15
 
-+ **Assignment**: [Building an almost simple server with Express.js](https://github.com/FrancoSpeziali/express-almost-simple-server)
++ **Assignment**: [Create an API of cars](https://github.com/GillesDCI/express-http-methods-assignment)
 
-+  (Optional) [Express with a fake database](https://github.com/FrancoSpeziali/express-with-fake-database)
++ (Optional) [Express with a fake database](https://github.com/FrancoSpeziali/express-with-fake-database)
