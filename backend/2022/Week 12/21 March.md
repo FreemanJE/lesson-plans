@@ -4,8 +4,12 @@
 
 ### Morning 09:00 - 12:00
 
++ GIT refresher
+    + .gitignore
+    + GIT CLI
+    + GIT in Visual Code
 + Nodemon
-+ Promises with axios
++ Axios library
 + **Bootstrapping**: the Node Weather CLI assignment
 
 ### Afternoon 13:00 - 16:15

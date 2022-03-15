@@ -18,7 +18,6 @@
     + CommonJS modules vs. ES6 modules
 + Node Process.env
 + Using the dotenv package
-+ CLI arguments in node.js (recap)
 
 ### Presentations
 

@@ -10,6 +10,7 @@
     + scripts
   + package+lock.json
   + npm CLI
++ Process.argv (recap)
 
 **Presentation:** [Npm](https://docs.google.com/presentation/d/1ZeR3VujCKimI6UhtkjYbaF-n969CR9RrEYU8JaniLpk/edit?usp=sharing)
 

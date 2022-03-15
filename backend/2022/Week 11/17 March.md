@@ -4,10 +4,6 @@
 
 ### Morning 09:00 - 12:00
 
-+ GIT refresher
-  + .gitignore
-  + GIT CLI
-  + GIT in Visual Code
 + Promises
   + async / await
 + Node File system
