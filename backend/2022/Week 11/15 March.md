@@ -20,6 +20,11 @@
 + Using the dotenv package
 + CLI arguments in node.js (recap)
 
-**Presentation:** [Introduction to Node](https://docs.google.com/presentation/d/1p6fMz1IyM6Zz_MNS1sREDj7lkez0G-KNHaCAEhds_SI/edit?usp=sharing)
+### Presentations
+
+[Introduction to Node](https://docs.google.com/presentation/d/1p6fMz1IyM6Zz_MNS1sREDj7lkez0G-KNHaCAEhds_SI/edit?usp=sharing)
+[CLI arguments](./cli-arguments.pdf)
+[Environment variables](./environment-variables.pdf)
+[node introduction](./node-introduction.pdf)
 
 + **Assignment**: [Environment variables in node.js](https://github.com/FrancoSpeziali/node-environment-variables)
