@@ -4,7 +4,6 @@
 
 ### Morning 09:00 - 12:00
 
-+ **Solution**: Node weather CLI
 + Talking about APIs
     + Recap: Requests and Responses
 + Application Routing in Express

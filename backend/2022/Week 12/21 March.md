@@ -8,8 +8,11 @@
     + .gitignore
     + GIT CLI
     + GIT in Visual Code
-+ Nodemon
-+ Axios library
++ Tools and libraries
+    + [Nodemon](https://github.com/remy/nodemon)
+    + [Axios](https://github.com/axios/axios)
++ Request types (introduction)
++ dotenv refresher (optional)
 + **Bootstrapping**: the Node Weather CLI assignment
 
 ### Afternoon 13:00 - 16:15
