@@ -8,7 +8,7 @@
   + async / await
 + Node File system
 + **Livecoding**: [Working with fs and Promises](https://github.com/GillesDCI/node-promises-example)
-+ **Recording:**[Recording](https://drive.google.com/file/d/1IHEO0r_nFFxWjCUBoJw7uSQLvCz1sNEP/view?usp=sharing)
++ **Recording:** [Recording](https://drive.google.com/file/d/1IHEO0r_nFFxWjCUBoJw7uSQLvCz1sNEP/view?usp=sharing)
 
 ### Afternoon 13:00 - 16:15
 
