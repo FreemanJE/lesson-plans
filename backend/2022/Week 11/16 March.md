@@ -16,6 +16,8 @@
 
 **Live Coding:** [Live Coding](https://github.com/GillesDCI/node-modules-example-e27)
 
+**Recording:** [Recording](https://drive.google.com/file/d/15HiFa-pG67kZjNuHileDH3BYvWjp_G0s/view?usp=sharing)
+
 ### Afternoon 13:00 - 16:15
 
 ** Assignment ** [CLI Text Formatter](https://github.com/DigitalCareerInstitute/Node-FormattingCLI)
