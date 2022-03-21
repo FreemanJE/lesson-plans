@@ -19,6 +19,11 @@
 + Node Process.env
 + Using the dotenv package
 
+### Recordings
+
+[Part 1](https://us02web.zoom.us/rec/share/PIydGJ_EO1iHjuht84Kx7urOXxlmrnU0eipOBmgFZFCAyrNsyOP6UT_GrVF2JkQl.8hjM68xxVgBIT9G5?startTime=1647332890000)
+[Part 2](https://us02web.zoom.us/rec/share/PIydGJ_EO1iHjuht84Kx7urOXxlmrnU0eipOBmgFZFCAyrNsyOP6UT_GrVF2JkQl.8hjM68xxVgBIT9G5?startTime=1647345925000)
+
 ### Presentations
 
 [Introduction to Node](https://docs.google.com/presentation/d/1p6fMz1IyM6Zz_MNS1sREDj7lkez0G-KNHaCAEhds_SI/edit?usp=sharing)

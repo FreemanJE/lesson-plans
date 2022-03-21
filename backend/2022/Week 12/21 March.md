@@ -17,4 +17,4 @@
 
 ### Afternoon 13:00 - 16:15
 
-+ **Assignment**: [Node Weather CLI](https://github.com/DigitalCareerInstitute/Node-WeatherCLI)
++ **Assignment**: [Node Weather CLI](https://github.com/E07-2/Node-WeatherCLI)
