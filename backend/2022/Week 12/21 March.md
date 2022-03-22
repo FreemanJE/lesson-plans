@@ -18,7 +18,9 @@
 ## Recordings
 
 [GIT refresher](https://us02web.zoom.us/rec/share/rGMxQ2mP_hHS-GMpkqsQymSukOhBB22bxunjHySA9dmmtbQIxnxxRCv5Wl2bUGos.38LEiHG1ANSAuCS8?startTime=1647851693000)
+
 [Tools, nodemon and axios](https://us02web.zoom.us/rec/share/rGMxQ2mP_hHS-GMpkqsQymSukOhBB22bxunjHySA9dmmtbQIxnxxRCv5Wl2bUGos.38LEiHG1ANSAuCS8?startTime=1647856795000)
+
 [Intro to servers, requests and request types](https://us02web.zoom.us/rec/share/rGMxQ2mP_hHS-GMpkqsQymSukOhBB22bxunjHySA9dmmtbQIxnxxRCv5Wl2bUGos.38LEiHG1ANSAuCS8?startTime=1647857801000)
 
 ### Afternoon 13:00 - 16:15
