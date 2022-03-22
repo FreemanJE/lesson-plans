@@ -4,6 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
++ Using URL query parameters
 + Introduction to Express.js
 + What is a server?
 + **Livecoding**: Building a simple server with Express.js
