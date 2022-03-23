@@ -17,7 +17,7 @@
 
 **Presentation**: [Backend server - HTTP](https://docs.google.com/presentation/d/1x7VynkZ_hc0nzRoNuTBN1j9PnfxGg3xOsMl7dIBiy7s/edit?usp=sharing)
 
-**Live Coding:**: [Api of Teas](https://github.com/GillesDCI/express-http-verbs-example-e27)
+**Live Coding**: [Api of Teas](https://github.com/GillesDCI/express-http-verbs-example-e27)
 
 ### Afternoon 13:00 - 16:15
 
