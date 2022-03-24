@@ -4,8 +4,13 @@
 
 ### Morning 09:00 - 12:00
 
-+ 
++ Middleware (recap)
++ Validation and Sanitization
+    What is it?
+    Why validation and sanitization
++ express-validator
++ **Presentation**: [Sanitization and Validation](https://docs.google.com/presentation/d/1UI0E2XBfOyIQzqACBDe4kZEu005M26mteiXC3BojzFQ/edit?usp=sharing)
 
 ### Afternoon 13:00 - 16:15
 
-+ 
++ [Server Middleware](https://github.com/DigitalCareerInstitute/BE-Server-Middleware)
