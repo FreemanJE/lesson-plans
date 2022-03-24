@@ -19,6 +19,8 @@
 
 **Live Coding**: [Api of Teas](https://github.com/GillesDCI/express-http-verbs-example-e27)
 
+**Recording**: [Recording](https://drive.google.com/file/d/1NM1xjdWq858jTsrTIRPq7307mqErHSgs/view?usp=sharing)
+
 ### Afternoon 13:00 - 16:15
 
 + **Assignment**: [Create an API of cars](https://github.com/GillesDCI/express-http-methods-assignment)
