@@ -9,6 +9,8 @@
 + Application Routing in Express
 + **Bootstrapping:** Building a REST API for our solar system
 
++ **Live Coding:** [Live Coding](https://github.com/GillesDCI/express-http-verbs-routing-es27)
+
 ### Afternoon 13:00 - 16:15
 
 + **Assignment**: [Building a REST API for our solar system](https://github.com/FrancoSpeziali/express-solar-system-api)
