@@ -13,4 +13,4 @@
 
 ### Afternoon 13:00 - 16:15
 
-+ [Server Middleware](https://github.com/DigitalCareerInstitute/BE-Server-Middleware)
++ [Sanitization and Validation](https://github.com/DigitalCareerInstitute/BE-Server-Middleware)
