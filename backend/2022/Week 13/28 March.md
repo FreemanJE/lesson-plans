@@ -5,7 +5,7 @@
 ### Morning 09:00 - 12:00
 
 + Application routing (recap)
-+ Building a REST API for our solar system
++ **Solution**: [Building a REST API for our solar system](https://github.com/FrancoSpeziali/express-solar-system-api)
 + Middleware
   + express.json()
   + cors()
