@@ -13,6 +13,10 @@
 
 **Presentation**: [Introduction to Express.js](https://docs.google.com/presentation/d/1kpgOb-FBKFf0cmJdhsztj31N-x6iQ1BFG_FFA18CAU4/edit?usp=sharing)
 
+## Recordings
+
+[Link](https://us02web.zoom.us/rec/share/9Pz6baHz7wixZXDML4-3bQvIBfw2cbbHBG9KVRYiArRtTWtU3GFVqHUYTuHDUupI.BCH9YsIHF6Hd3dea)
+
 + **Solution**: Node weather CLI (Optional)
 
 ### Afternoon 13:00 - 16:15
