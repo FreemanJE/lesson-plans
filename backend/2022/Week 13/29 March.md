@@ -4,6 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
++ Solution - Logging requests
 + Middleware (recap)
 + Validation and Sanitization
     What is it?
