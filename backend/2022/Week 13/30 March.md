@@ -18,4 +18,4 @@ Livecoding: Connecting React to our server
 ### Afternoon 13:00 - 16:15
 
 + [Frontend for Solar system API](https://github.com/FrancoSpeziali/react-solar-system)
-+ Presentation April referral program
++ 16.00: Presentation April referral program
