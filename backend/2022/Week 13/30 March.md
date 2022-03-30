@@ -14,6 +14,8 @@ Livecoding: Connecting React to our server
   + What is CORS
   + Why CORS?
   + How to configure CORS
+
+**Live Coding:** [Live Coding](https://github.com/GillesDCI/cors-example-e072)
   
 ### Afternoon 13:00 - 16:15
 
