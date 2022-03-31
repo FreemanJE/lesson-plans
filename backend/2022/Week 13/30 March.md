@@ -15,7 +15,7 @@ Livecoding: Connecting React to our server
   + Why CORS?
   + How to configure CORS
 
-**Live Coding:** [Live Coding](https://github.com/GillesDCI/cors-example-e072)](https://drive.google.com/file/d/11PZWl0mIwVgMWu0RqayGbPAeqGRRn-Va/view?usp=sharing)
+**Live Coding:** [Live Coding](https://github.com/GillesDCI/cors-example-e072)
 
 
 **Recording:** [Recording](https://drive.google.com/file/d/11PZWl0mIwVgMWu0RqayGbPAeqGRRn-Va/view?usp=sharing)
