@@ -9,6 +9,9 @@
 + Creating a Proxy server
 + **Presentation**: [Proxy server](https://docs.google.com/presentation/d/13dMsRHrG94J1vpPHMpaHWUxR5bnQAmfd8-8CkDwRlfQ/edit?usp=sharing)
 
++ **Live coding:** [Live coding](https://github.com/GillesDCI/proxy-example-e072)
++ **Live coding:** [Solar System example](https://github.com/GillesDCI/live-coding-solar-assignment)
+
 ### Afternoon 13:00 - 16:15
 
 + **Assignment**: [Frontend for Solar system API](https://github.com/FrancoSpeziali/react-solar-system)
