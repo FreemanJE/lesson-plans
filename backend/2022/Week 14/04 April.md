@@ -18,6 +18,12 @@
 + Recap async / await
   + try / catch
 
+[Notes](./04%20April_Notes.md)
+
+[Livecoding](https://github.com/E07-2/livecoding-schema-validation)
+
+[Recordings](https://us02web.zoom.us/rec/share/lgPg5qHVM_GMFrE6ShVDBFSHbV-I9kzZVgWjk-odunAH-2YuG0Wu2tc7fnomYV7B.D4XWW05Qcu-ymxiV)
+
 ### Afternoon 13:00 - 16:15
 
 + [Schemas](https://github.com/FrancoSpeziali/db-schemas)
