@@ -1,8 +1,7 @@
-## Creating documents inside our collection
+# Creating documents inside our collection
 
 - When we create a new document, MongoDB **automatically** creates an **_id** field for that document
 - We can use that **id** to uniquely identify that particular document for that collection
-
 
 ### How?
 
@@ -93,3 +92,5 @@ app.post("/", async (req, res) => {
   res.send("ok");
 });
 ```
+
+![Diagram](./MongoDB%20Overview.drawio.png)

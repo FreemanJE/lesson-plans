@@ -8,7 +8,7 @@
 + SQL vs NoSQL
 + Storing arrays in MongoDB documents
 + Further validation with Mongoose
-  + enums
+  + enums (intro)
   + defaults
   + required
 

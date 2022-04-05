@@ -11,9 +11,6 @@
   + documents & collections
   + schemas & models
 + Recap: Databases and Schemas
-+ **Solutions**
-  + Schemas
-  + Creating data
 + Getting data from our database
   + `find()`
 + Recap Middleware
@@ -22,6 +19,8 @@
 [Notes](./05%20April_Notes.md)
 
 [Livecoding](https://github.com/E07-2/creating-data)
+
+[Diagram](./MongoDB%20Overview.drawio.png)
 
 ### Afternoon 13:00 - 16:15
 
