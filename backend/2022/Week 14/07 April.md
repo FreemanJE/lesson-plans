@@ -14,4 +14,4 @@
 
 ### Afternoon 13:00 - 16:15
 
-+ [BE-DatabaseAdvanced-Schemas](https://github.com/DigitalCareerInstitute/BE-DatabaseAdvanced-Schemas)
++ [Virtual Noticeboard](https://github.com/FrancoSpeziali/db-virtual-noticeboard)

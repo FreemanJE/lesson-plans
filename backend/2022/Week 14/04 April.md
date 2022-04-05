@@ -21,4 +21,3 @@
 ### Afternoon 13:00 - 16:15
 
 + [Schemas](https://github.com/FrancoSpeziali/db-schemas)
-+ [Creating Data](https://github.com/FrancoSpeziali/db-creating-data)
