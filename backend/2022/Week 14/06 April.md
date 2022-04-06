@@ -16,6 +16,9 @@
   + PATCH
   + DELETE
 
+
++ [Live Coding](https://github.com/GillesDCI/http-verbs-routing-database-e07)
+
 ### Afternoon 13:00 - 16:15
 
 + [CRUD Operation Assignment](https://github.com/GillesDCI/db-crud-operations-assignment)
