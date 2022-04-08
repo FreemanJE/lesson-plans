@@ -22,6 +22,8 @@
 
 [Diagram](./MongoDB%20Overview.drawio.png)
 
+[Recordings](https://us02web.zoom.us/rec/share/_sE4U-l276lsarWcZFTR1copQr2gFXq6HHjlAbcXkbm2pz_SvHKb7DHptjXnC4TQ.G1X6X9gLZ-hRx83D)
+
 ### Afternoon 13:00 - 16:15
 
 + [Creating Data](https://github.com/FrancoSpeziali/db-creating-data)
