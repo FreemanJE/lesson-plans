@@ -6,7 +6,7 @@
 
 
 + Workshops
-  + Creating a customers backend 
+  + Creating a customer API 
   + Recap routing
   + Recap models 
   + Recap http methods / dotenv
