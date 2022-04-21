@@ -10,8 +10,11 @@
   + Recap routing
   + Recap models 
   + Recap http methods / dotenv
+
+  **Live Coding:** [Live Coding](https://github.com/GillesDCI/customers-backend-recap)
   
 + Assignments / Questions
+
 
 ### Afternoon 13:00 - 16:15
 
