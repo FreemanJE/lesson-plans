@@ -4,8 +4,14 @@
 
 ### Morning 09:00 - 12:00
 
-+ Workshops with Gilles
-+ Solutions to assignments
+
++ Workshops
+  + Creating a customers backend 
+  + Recap routing
+  + Recap models 
+  + Recap http methods / dotenv
+  
+
 
 ### Afternoon 13:00 - 16:15
 
