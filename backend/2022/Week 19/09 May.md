@@ -1,5 +1,7 @@
 # Monday 9th May
 
+**Goal**: Security
+
 ## Lesson Plan
 
 ### Morning 09:00 - 12:00

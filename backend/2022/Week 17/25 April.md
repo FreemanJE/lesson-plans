@@ -1,5 +1,7 @@
 # Monday 25th April
 
+**Goal**: Subdocuments and references
+
 ## Lesson Plan
 
 ### Morning 09:00 - 12:00

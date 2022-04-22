@@ -1,5 +1,7 @@
 # Monday 23rd May
 
+**Goal**: Project
+
 ## Lesson Plan
 
 ### Morning 09:00 - 12:00
