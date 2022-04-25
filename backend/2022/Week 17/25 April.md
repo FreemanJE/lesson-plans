@@ -17,8 +17,9 @@
 + Querying with Mongoose
     + find() - more complex examples
     + findById()
-    + finding within an array
+    + ~~finding within an array~~
 
++ **Livecoding** [subdocuments](https://github.com/E07-2/subdocuments-livecoding)
 + **Solution** [Virtual Noticeboard](https://github.com/FrancoSpeziali/db-virtual-noticeboard-solution)
 
 ### Afternoon 13:00 - 16:15
