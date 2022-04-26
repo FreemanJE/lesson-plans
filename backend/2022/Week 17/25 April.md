@@ -20,7 +20,8 @@
     + ~~finding within an array~~
 
 + **Livecoding** [subdocuments](https://github.com/E07-2/subdocuments-livecoding)
-+ **Solution** [Virtual Noticeboard](https://github.com/FrancoSpeziali/db-virtual-noticeboard-solution)
+
+** Lesson Recordings **[Link](https://us02web.zoom.us/rec/share/e3BVbz-vw1uTdgc0HYRvOQi7aRJ8yVq3wYpuSARhN7pEheEum93y8UZl__FBIfa4.niDcwwpvQ0pDJAr0)
 
 ### Afternoon 13:00 - 16:15
 
