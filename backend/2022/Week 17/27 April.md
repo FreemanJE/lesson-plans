@@ -12,7 +12,7 @@
     + lean()
     + skip()
 
-+ **Live Coding:**
++ [Live coding](https://github.com/GillesDCI/live-coding-2704)
 + [Mongoose registration](https://github.com/GillesDCI/Live-Coding-Registration-Form)
 
 ### Afternoon 13:00 - 16:15
