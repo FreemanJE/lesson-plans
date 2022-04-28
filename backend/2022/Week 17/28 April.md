@@ -12,6 +12,7 @@
   + Populating references in queries
 
  + [Live Coding](https://github.com/GillesDCI/live-coding2804)
+ + [Recording](https://drive.google.com/file/d/1tbPXCyljcN9Nqnpz_6aBV4asQJy7tvPx/view?usp=sharing)
 
 ### Afternoon 13:00 - 16:15
 
