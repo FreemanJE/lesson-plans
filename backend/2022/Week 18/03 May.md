@@ -4,7 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
-+ Solution
++ Solution to Part 1 or other assignment
 
 ### Afternoon 13:00 - 16:15
 

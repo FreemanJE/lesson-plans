@@ -1,10 +1,12 @@
 # Monday 2nd May
 
+**Goal**: Advanced querying & Introduction to security
+
 ## Lesson Plan
 
 ### Morning 09:00 - 12:00
 
-+ **Recap** References
++ **Recap** References & populate
 
 ### Afternoon 13:00 - 16:15
 
