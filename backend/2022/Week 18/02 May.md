@@ -11,3 +11,9 @@
 ### Afternoon 13:00 - 16:15
 
 + [Wizards Part 1](https://github.com/DigitalCareerInstitute/BE-Db-Wizards)
+
+### Resources
+
+[Livecoding](https://github.com/E07-2/livecoding-references-relationships)
+
+[Notes](./02%20May_Notes.md)
