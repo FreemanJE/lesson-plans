@@ -9,3 +9,9 @@
 ### Afternoon 13:00 - 16:15
 
 + [Wizards Part 2](https://github.com/DigitalCareerInstitute/BE-Db-Wizards)
+
+### Resources
+
+[Notes](./03%20May_Notes.md)
+
+[Livecoding - db-restaurants](https://github.com/E07-2/subdocuments-livecoding)

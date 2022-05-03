@@ -17,3 +17,5 @@
 [Livecoding](https://github.com/E07-2/livecoding-references-relationships)
 
 [Notes](./02%20May_Notes.md)
+
+[Recording References and populate (recap)](https://us02web.zoom.us/rec/share/bsLDxjqKqQ3fDDoeF8LVclOBUFhpdp5Gw6o_CHw0mOKt4vQ5u4M6YswrQH9pM3zF.VKNqZ5h6qtUQ-NAW)
