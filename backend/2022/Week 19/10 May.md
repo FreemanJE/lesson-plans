@@ -4,6 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
++ The Date object
 + Uploading files with [multer](https://www.npmjs.com/package/multer)
   + Introduction to multipart requests
   + Installing and configuring multer
