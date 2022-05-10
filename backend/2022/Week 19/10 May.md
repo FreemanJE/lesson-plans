@@ -15,3 +15,7 @@
 
 + Backend Assessment I
 + [Uploading images with multer](https://github.com/FrancoSpeziali/express-uploading-images)
+
+### Resources
+
+[Notes](./10%20May_Notes.md)

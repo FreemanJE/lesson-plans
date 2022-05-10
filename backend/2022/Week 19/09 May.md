@@ -18,3 +18,9 @@ Poll: What to do with remaining time?
 ### Afternoon 13:00 - 16:15
 
 + [JWT Authenticator](https://github.com/FrancoSpeziali/security-jwt-authenticator)
+
+### Resources
+
+[Recording](https://us02web.zoom.us/rec/share/aNjG9UBX8hOGfXscC7_k_TFWLpCEIBocOhS22k9b-3FAOxC9DWHCG5Fl1iY-L1PM.qKQBavINS2um5lSK)
+
+[Notes](./09%20May_Notes.md)
