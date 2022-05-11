@@ -12,6 +12,9 @@ Passport.js
   + Using passport with request headers
 + Authentication middleware example (roles)
 
+
++ [Live Coding](https://github.com/GillesDCI/live-coding-1105)
+
 ### Afternoon 13:00 - 16:15
 
 + [JWT Implementing Passport](https://github.com/GillesDCI/jwt-passport-assignment)
