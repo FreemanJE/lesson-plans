@@ -1,11 +1,22 @@
 # Wednesday 18th May
 
-## Lesson Plan
+## Projects
 
-### Morning 09:00 - 12:00
+- [Fullstack pagination](https://github.com/DigitalCareerInstitute/BE-Fullstack-Pagination)
+- [Fullstack messageboard](https://github.com/DigitalCareerInstitute/BE-Fullstack-Messageboard)
+- Suggest your own
 
-+ 
+## Workshop suggestions for the following days
 
-### Afternoon 13:00 - 16:15
-
-+ 
+- useState & useEffect (React)
+- Rendering JSON from API (React)
+- React Router (React)
+- Connecting a React form to an API (React and Express)
+- Context API (React)(2 days)
+- Handling notifications with Context API (React)
+- Advanced querying with Mongoose (Mongoose)
+  - Searching within arrays, subdocuments with `find()`
+  - MongoDB operators `$push`...
+- JWT Tokens (React / Express)
+  - Frontend or backend
+- Suggest your own
