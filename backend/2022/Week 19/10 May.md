@@ -20,4 +20,8 @@
 
 [Livecoding](https://github.com/E07-2/livecoding-file-upload)
 
+[Recording](https://us02web.zoom.us/rec/share/NG7WTqnWHoGIbRVn-jqpYmRbH6H5ARd6KYqn_0xxWsze6V95VJr-_319zbPDs5rP.Rup-z1QdVvGPtiZQ)
+
 [Notes](./10%20May_Notes.md)
+
+[Diagram](./Multer%20middleware.drawio.png)
