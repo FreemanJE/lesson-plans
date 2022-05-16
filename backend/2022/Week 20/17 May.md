@@ -14,4 +14,4 @@ Q&A session with the job coach
 
 ### Afternoon 13:00 - 16:15
 
-+ Error handling in the frontend
++ ~~Error handling in the frontend~~
