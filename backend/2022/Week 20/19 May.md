@@ -10,6 +10,7 @@
 
 - useState & useEffect (React)
 - Rendering JSON from API (React)
+- Date object (JavaScript)
 - React Router (React)
 - Connecting a React form to an API (React and Express)
 - Context API (React)(2 days)
