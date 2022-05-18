@@ -6,6 +6,8 @@
 - [Fullstack messageboard](https://github.com/DigitalCareerInstitute/BE-Fullstack-Messageboard)
 - Suggest your own
 
+- Optional: SPA Assessment II 
+
 ## Workshop suggestions for the following days
 
 - useState & useEffect (React)
